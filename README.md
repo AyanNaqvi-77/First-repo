@@ -1,8 +1,2 @@
-# First-repo
-This is my first reposity on git hub and ill do new thing in this section 
-<br>
-# Student 
-Ayan Hasnain Naqvi
-<br>
-# New Call
-Comming back to project
+# First Project 
+This is my First project of HTML and CSS . In this project ,I use only HTML and CSS and make humburger to open and close the side menu 
